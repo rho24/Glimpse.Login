@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glimpse.Login", "Glimpse.Login\Glimpse.Login.csproj", "{45BD7365-B3F5-47FB-A839-2E8ED7B2DE99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glimpse.Login.Example", "Glimpse.Login.Example\Glimpse.Login.Example.csproj", "{B9C14EF1-FB50-44A7-97C9-975D50B9F0A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{45BD7365-B3F5-47FB-A839-2E8ED7B2DE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45BD7365-B3F5-47FB-A839-2E8ED7B2DE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45BD7365-B3F5-47FB-A839-2E8ED7B2DE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C14EF1-FB50-44A7-97C9-975D50B9F0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C14EF1-FB50-44A7-97C9-975D50B9F0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C14EF1-FB50-44A7-97C9-975D50B9F0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C14EF1-FB50-44A7-97C9-975D50B9F0A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
