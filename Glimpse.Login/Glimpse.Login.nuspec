@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/rho24/Glimpse.Login</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>1.0.0 - Initial release</releaseNotes>
+    <tags>Glimpse Login Authentication Password</tags>
+  </metadata>
+  <files>
+    <file src="readme.txt" target="readme.txt" />
+    <file src="content\*.*" target="content" />
+  </files>
+</package>

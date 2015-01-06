@@ -1,0 +1,15 @@
+﻿<configuration>
+    <appSettings>
+        <add key="Glimpse.Login.Password" value="REPLACE WITH YOUR PASSWORD" />
+    </appSettings>
+    <system.web>
+        <httpHandlers>
+            <add path="glimpse.login.axd" verb="GET" type="Glimpse.Login.FormHandler, Glimpse.Login" />
+        </httpHandlers>
+    </system.web>
+    <system.webServer>
+        <handlers>
+            <add name="Glimpse.Login" path="glimpse.login.axd" verb="GET" type="Glimpse.Login.FormHandler, Glimpse.Login" preCondition="integratedMode" />
+        </handlers>
+    </system.webServer>
+</configuration>

@@ -36,6 +36,7 @@ UpgradeLog.htm
 Backup/
 [Pp]ackages/
 App_Data/
+*nupkg
 
 #Tooling
 _ReSharper*/

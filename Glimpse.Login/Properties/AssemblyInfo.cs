@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Glimpse.Login")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple login policy for Glimpse to protect your site in production")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Richard Oliver")]
 [assembly: AssemblyProduct("Glimpse.Login")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
